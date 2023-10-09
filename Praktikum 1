@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pancasila</title>
+</head>
+<body>
+    <center><h1>PANCASILA</h1></center><br>
+    <center><table border="0">
+        <tr>
+            <th rowspan="1"><img src="sila1.jpg" height="200" width="170"></th>
+            <th><h3>Ketuhanan Yang Maha Esa</h3></th>
+            <th></th><th></th><th></th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th><h3>Kemanusiaan Yang Adil dan Beradab</h3></th>
+            <th rowspan="1"><img src="sila2.png" height="200" width="170"></th>
+        </tr>
+        <tr>
+            <th rowspan="1"><img src="sila3.jpg" height="200" width="170"></th>
+            <th><h3>Persatuan Indonesia</h3></th>
+            <th></th><th></th><th></th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th><h3>Kerakyatan yang dipimpin oleh hikmat kebijaksanaan <br> dalam permusyawaratan/perwakilan</h3></th>
+            <th rowspan="1"><img src="sila4.jpg" height="200" width="170"></th>
+        </tr>
+        <tr>
+            <th rowspan="1"><img src="sila5.jpg" height="200" width="170"></th>
+            <th><h3>Keadilan sosial bagi seluruh rakyat Indonesia</h3></th>
+            <th></th><th></th><th></th>
+        </tr>
+    </table></center>
+</body>
+</html>
